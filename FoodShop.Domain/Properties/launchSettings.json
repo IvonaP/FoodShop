@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "FoodShop.Domain": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "Key": "Value"
+      }
+    }
+  }
+}
